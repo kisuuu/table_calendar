@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "385507770495",
+    "project_id": "multify-3594e",
+    "storage_bucket": "multify-3594e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385507770495:android:f6279908c0bb28e54d7f4a",
+        "android_client_info": {
+          "package_name": "com.example.parent_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385507770495-repbrbu0qe1prlnbh14m2gikk0npajgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBimBg9UOKLEy1ENAPUH1RKf9cVnusi-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385507770495-repbrbu0qe1prlnbh14m2gikk0npajgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385507770495:android:d10ba389418cc5b34d7f4a",
+        "android_client_info": {
+          "package_name": "com.example.testing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385507770495-repbrbu0qe1prlnbh14m2gikk0npajgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBimBg9UOKLEy1ENAPUH1RKf9cVnusi-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385507770495-repbrbu0qe1prlnbh14m2gikk0npajgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
